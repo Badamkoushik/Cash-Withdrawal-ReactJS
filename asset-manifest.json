@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cash-Withdrawal-ReactJS/static/css/main.c2412ef1.chunk.css",
+    "main.js": "/Cash-Withdrawal-ReactJS/static/js/main.aadba53d.chunk.js",
+    "main.js.map": "/Cash-Withdrawal-ReactJS/static/js/main.aadba53d.chunk.js.map",
+    "runtime-main.js": "/Cash-Withdrawal-ReactJS/static/js/runtime-main.a5f9e2b4.js",
+    "runtime-main.js.map": "/Cash-Withdrawal-ReactJS/static/js/runtime-main.a5f9e2b4.js.map",
+    "static/js/2.fa9f4c4b.chunk.js": "/Cash-Withdrawal-ReactJS/static/js/2.fa9f4c4b.chunk.js",
+    "static/js/2.fa9f4c4b.chunk.js.map": "/Cash-Withdrawal-ReactJS/static/js/2.fa9f4c4b.chunk.js.map",
+    "index.html": "/Cash-Withdrawal-ReactJS/index.html",
+    "static/css/main.c2412ef1.chunk.css.map": "/Cash-Withdrawal-ReactJS/static/css/main.c2412ef1.chunk.css.map",
+    "static/js/2.fa9f4c4b.chunk.js.LICENSE.txt": "/Cash-Withdrawal-ReactJS/static/js/2.fa9f4c4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5f9e2b4.js",
+    "static/js/2.fa9f4c4b.chunk.js",
+    "static/css/main.c2412ef1.chunk.css",
+    "static/js/main.aadba53d.chunk.js"
+  ]
+}
