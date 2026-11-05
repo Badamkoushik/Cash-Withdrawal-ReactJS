@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+.btn-container {
+  list-style-type: none;
+  width: 48%;
+  padding: 0px;
+  margin: 0px;
+}
+
+.btn {
+  background-color: #382f5a;
+  height: 40px;
+  width: 100%;
+  border: 1px solid #d4d2db;
+  color: #d4d2db;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+}
